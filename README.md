@@ -37,5 +37,3 @@
 To strengthen my technical knowledge, build meaningful projects, and explore opportunities in Data Science and AI/ML.
 
 ---
-
-<h3 align="center">Thanks for visiting my profile! 😊</h3>
