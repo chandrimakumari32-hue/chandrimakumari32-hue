@@ -1,39 +1,61 @@
-<h1 align="center">Hi, I'm Chandrima Kumari</h1>
-<h3 align="center">Aspiring Data Scientist | AI & ML Enthusiast</h3>
+<h1 align="center">Hi, I'm Chandrima Kumari </h1>
+
+<h3 align="center">B.Tech CSE (AI & Data Science) | Aspiring Data Scientist</h3>
 
 ---
 
 ###  About Me
 
--  B.Tech student in Computer Science Engineering (AI & Data Science).
--  Interested in Data Science, Machine Learning, and Artificial Intelligence.
--  Working with Python, C, C++, and Data Structures.
--  Interested in data analysis, predictive modelling, and solving real-world problems.
--  Continuously learning and building projects.
+I'm an undergraduate student pursuing Computer Science Engineering with a specialization in Artificial Intelligence and Data Science at Amity University.
 
-### 🛠️ Technical Skills
+- Interested in Data Science, Machine Learning and Artificial Intelligence.
+- Enjoy exploring data, building predictive models and solving real-world problems.
+- Continuously improving my programming and problem-solving skills.
+- Passionate about learning new technologies and developing practical projects.
 
-- **Programming:** Python, C, C++
-- **Data Science:** NumPy, Pandas, Data Analysis
-- **Machine Learning:** Scikit-learn, Machine Learning Algorithms
-- **Tools:** Git, GitHub, Docker, Jira
-- **Other:** IBM SPSS Modeler, SQL (Learning)
+### Technical Skills
 
-###  Projects
+**Programming Languages**
+- Python, C, C++
 
-- Road Accident Analysis using Data Science and Machine Learning
-- Heart Disease Prediction
-- Disease Prediction System
+**Data Science & Machine Learning**
+- NumPy, Pandas, Scikit-learn
+- Data Analysis, Exploratory Data Analysis
+- Machine Learning Algorithms
 
-###  Currently Learning
+**Tools & Technologies**
+- Git & GitHub
+- Docker
+- Jira
+- IBM SPSS Modeler
+
+###  Featured Projects
+
+**1. Road Accident Analysis Using Data Science and Machine Learning**
+
+- Analyzed UK road accident data to identify accident patterns and contributing factors.
+- Developed machine learning models to predict accident severity.
+- Built an interactive dashboard using Streamlit.
+
+**2. Heart Disease Prediction**
+- Machine learning-based project focused on predicting heart disease using patient-related features.
+
+**3. Disease Prediction System**
+- Developed a predictive machine learning project for disease identification.
+
+### Currently Learning
 
 - Data Structures and Algorithms
+- Advanced Python and SQL
 - Machine Learning
-- SQL and Advanced Python
-- Cloud and DevOps Fundamentals
+- Data Analysis and Visualization
 
-### 🎯 Goals
+### Career Interests
 
-To strengthen my technical knowledge, build meaningful projects, and explore opportunities in Data Science and AI/ML.
+Data Science | Machine Learning | Artificial Intelligence | Data Analytics
 
 ---
+
+<p align="center">
+  <i>Learning continuously, building consistently, and growing one project at a time.</i>
+</p>
